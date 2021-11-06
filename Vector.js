@@ -6,4 +6,4 @@ class Vector{
 	}
 }
 
-export default Vector();
+export default Vector;
